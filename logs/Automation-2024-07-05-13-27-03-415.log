@@ -1,0 +1,15 @@
+2024-07-05-13-27-03-557 [main] INFO  tests.TestBase - environment : qa
+2024-07-05-13-27-03-558 [main] INFO  tests.TestBase - userType : admin
+2024-07-05-13-27-03-561 [main] INFO  tests.HomeTest - Extent Reports Version 3 Test Suite started!
+2024-07-05-13-27-03-561 [main] INFO  tests.HomeTest - Home webTests
+2024-07-05-13-27-03-563 [main] INFO  utilities.ExtentManager - Directory already exists: /Users/minahermina/Documents/Automation/AndroidDemo/TestReport
+2024-07-05-13-27-03-563 [main] INFO  utilities.ExtentManager - ExtentReport Path for MAC: /Users/minahermina/Documents/Automation/AndroidDemo/TestReport/05-07-2024
+
+2024-07-05-13-27-03-564 [main] INFO  utilities.ExtentManager - HTML report Location  : /Users/minahermina/Documents/Automation/AndroidDemo/TestReport/05-07-2024/Home webTests-admin User -qa-05-07-24.html
+2024-07-05-13-27-03-634 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >TestBase Class 
+2024-07-05-13-27-03-634 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >Start appium service 
+2024-07-05-13-27-04-741 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - Service has been started with port number 7777
+2024-07-05-13-27-04-742 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >get property file 
+2024-07-05-13-27-04-746 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== > Getting UiAutomator options 
+2024-07-05-13-27-04-750 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== > launch appium driver 
+2024-07-05-13-27-08-545 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - longPress started!

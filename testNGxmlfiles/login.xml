@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Home" parallel="classes" thread-count="4">
+    <parameter name="environment" value="qa" />
+    <parameter name="userType" value="admin"/>
+
+    <parameter name="deviceName" value="emulator-5554"/>
+    <parameter name="portNumber" value="7777" />
+    <parameter name="platformVersion" value="13"/>
+
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="Home webTests" enabled="true">
+      <classes>
+          <class name="tests.HomeTest"/>
+      </classes>
+    </test>
+</suite>

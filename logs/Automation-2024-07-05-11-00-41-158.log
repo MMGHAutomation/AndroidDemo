@@ -1,0 +1,15 @@
+2024-07-05-11-00-41-285 [main] INFO  tests.TestBase - environment : qa
+2024-07-05-11-00-41-286 [main] INFO  tests.TestBase - userType : admin
+2024-07-05-11-00-41-288 [main] INFO  tests.HomeTest - Extent Reports Version 3 Test Suite started!
+2024-07-05-11-00-41-289 [main] INFO  tests.HomeTest - Home webTests
+2024-07-05-11-00-41-292 [main] INFO  utilities.ExtentManager - Directory already exists: /Users/minahermina/Documents/Automation/AndroidDemo/TestReport
+2024-07-05-11-00-41-292 [main] INFO  utilities.ExtentManager - ExtentReport Path for MAC: /Users/minahermina/Documents/Automation/AndroidDemo/TestReport/05-07-2024
+
+2024-07-05-11-00-41-292 [main] INFO  utilities.ExtentManager - HTML report Location  : /Users/minahermina/Documents/Automation/AndroidDemo/TestReport/05-07-2024/Home webTests-admin User -qa-05-07-24.html
+2024-07-05-11-00-41-371 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >TestBase Class 
+2024-07-05-11-00-41-372 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >Start appium service 
+2024-07-05-11-00-43-278 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - Service has been started with port number 7777
+2024-07-05-11-00-43-278 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >get property file 
+2024-07-05-11-00-43-280 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== > Getting UiAutomator options 
+2024-07-05-11-00-43-283 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== > launch appium driver 
+2024-07-05-11-00-47-026 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - scrolldown started!

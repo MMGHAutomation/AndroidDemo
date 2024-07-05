@@ -1,0 +1,10 @@
+2024-07-05-13-05-34-726 [main] INFO  tests.TestBase - environment : qa
+2024-07-05-13-05-34-727 [main] INFO  tests.TestBase - userType : admin
+2024-07-05-13-05-34-729 [main] INFO  tests.HomeTest - Extent Reports Version 3 Test Suite started!
+2024-07-05-13-05-34-729 [main] INFO  tests.HomeTest - Home webTests
+2024-07-05-13-05-34-732 [main] INFO  utilities.ExtentManager - Directory already exists: /Users/minahermina/Documents/Automation/AndroidDemo/TestReport
+2024-07-05-13-05-34-732 [main] INFO  utilities.ExtentManager - ExtentReport Path for MAC: /Users/minahermina/Documents/Automation/AndroidDemo/TestReport/05-07-2024
+
+2024-07-05-13-05-34-732 [main] INFO  utilities.ExtentManager - HTML report Location  : /Users/minahermina/Documents/Automation/AndroidDemo/TestReport/05-07-2024/Home webTests-admin User -qa-05-07-24.html
+2024-07-05-13-05-34-802 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >TestBase Class 
+2024-07-05-13-05-34-802 [TestNG-test=Home webTests-1] INFO  tests.HomeTest - ===== >Start appium service 
